@@ -21,11 +21,11 @@ Mémoire, Sociologie des valeurs, Théorie de l'action
 ## Formation
 
 `2021 - `
-**Doctorat, Sociologie**, *ENS Paris-Saclay*
+**Doctorat, Sociologie**, *ENS Paris-Saclay*<br/>
 Thèse : "Mémoires et Valeurs : une approche computationnelle des témoignages des attentats du 13 Novembre 2015"
 
 `2020 - 2021`
-**Master 2, Sociologie Quantitative et Démographie**, *Université Paris-Saclay*
+**Master 2, Sociologie Quantitative et Démographie**, *Université Paris-Saclay*<br/>
 Mémoire : "Le mérite, parle-t-on de la même chose ? Une analyse empirique des représentations du mérite"
 
 `2016 - 2019`
@@ -37,13 +37,13 @@ Mémoire : "Le mérite, parle-t-on de la même chose ? Une analyse empirique des
 ## Enseignement
 
 `2022 - 2024`
-**Méthodes Quantitatives pour les Sciences Sociales**
+**Méthodes Quantitatives pour les Sciences Sociales**<br/>
 *ENS Paris-Saclay* - M1 Sociologie, M1 Histoire, M1 Economie
 - Cours et TD d'introduction aux méthodes utilisées dans la recherche en sciences sociales et de programmation sur R (statistiques descriptives et inférentielles, cartographie, analyse géométrique des données, analyse de réseau, analyse quantitative du texte)
 - Suivi de projet d’application
 
 `2022 - 2024`
-**Suivi de mémoire**
+**Suivi de mémoire**<br/>
 *Université Paris-Saclay - M1 Sociologie Quantitative et Démographie
 
 ## Experiences professionnelles
@@ -65,7 +65,8 @@ Robin Quillivic et **Charles Payet**. Semi-Structured Interview Analysis : A Fre
 
 ## Présentations
 
-Word embeddings pour les sciences sociales. *Séminaire de Recherche du Programme 13-Novembre*. 9 Mai 2023.                        
+Word embeddings pour les sciences sociales. *Séminaire de Recherche du Programme 13-Novembre*. 9 Mai 2023.
+
 Pourquoi témoigner. *Ecole d’automne du Programme 13-Novembre*. Octobre 2022.
 
 ## Logiciels
