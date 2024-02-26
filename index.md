@@ -44,7 +44,7 @@ Mémoire : "Le mérite, parle-t-on de la même chose ? Une analyse empirique des
 
 `2022 - 2024`
 **Suivi de mémoire**<br/>
-*Université Paris-Saclay - M1 Sociologie Quantitative et Démographie
+*Université Paris-Saclay* - M1 Sociologie Quantitative et Démographie
 
 ## Experiences professionnelles
 
@@ -65,9 +65,8 @@ Robin Quillivic et **Charles Payet**. Semi-Structured Interview Analysis : A Fre
 
 ## Présentations
 
-Word embeddings pour les sciences sociales. *Séminaire de Recherche du Programme 13-Novembre*. 9 Mai 2023.
-
-Pourquoi témoigner. *Ecole d’automne du Programme 13-Novembre*. Octobre 2022.
+Word embeddings pour les sciences sociales. *Séminaire de Recherche du Programme 13-Novembre*. 9 Mai 2023.<br/>
+Pourquoi témoigner ? *Ecole d’automne du Programme 13-Novembre*. Octobre 2022.
 
 ## Logiciels
 
@@ -78,12 +77,12 @@ Pourquoi témoigner. *Ecole d’automne du Programme 13-Novembre*. Octobre 2022.
 ## Compétences
 
 ### Méthodes quantitatives et computationnelles
-Statistiques appliquées, Modélisation statistique, Machine Learning
-Traitement automatique du language, Analyse de réseaux
+Statistiques appliquées, Modélisation statistique, Machine Learning<br/>
+Traitement automatique du language, Analyse de réseaux<br/>
 Visualisation d'information
 
 ### Programmation
-R, python, SQL, Quarto, Markdown, HTML et CSS
+R, python, SQL, Quarto, Markdown, HTML et CSS<br/>
 Web scrapping
 
 ### Langues
